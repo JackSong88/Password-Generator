@@ -19,3 +19,9 @@ How to run
 ----------
 
 To run the .exe file on windows, click on "More Info" then "Run Anyways"
+
+
+Preview
+---------
+
+![image](https://user-images.githubusercontent.com/86933572/152664899-268a35cd-d187-48ba-9163-3998b10f53c2.png)
